@@ -26,7 +26,7 @@ const Events = () => {
       date: "March 15, 2024",
       time: "10:00 AM - 4:00 PM",
       location: "CADEC Innovation Lab",
-      image: "/src/assets/event1.jpg",
+      image: "/assets/event1.jpg",
       category: "Competition",
       attendees: 150,
       description: "Showcase your innovative business ideas and compete for cash prizes worth ₹15,000. Open to all students with entrepreneurial spirit.",
@@ -76,7 +76,7 @@ const Events = () => {
       date: "March 22, 2024",
       time: "9:00 AM - 5:00 PM",
       location: "Main Auditorium",
-      image: "/src/assets/event1.jpg",
+      image: "/assets/event1.jpg",
       category: "Workshop",
       attendees: 100,
       description: "Learn from successful entrepreneurs and industry experts about building and scaling your startup venture.",
@@ -112,7 +112,7 @@ const Events = () => {
       date: "March 28, 2024",
       time: "6:00 PM - 8:00 PM",
       location: "Conference Hall",
-      image: "/src/assets/event1.jpg",
+      image: "/assets/event1.jpg",
       category: "Launch",
       attendees: 200,
       description: "Celebrate the launch of CADEC's second annual magazine featuring student success stories and entrepreneurial insights.",
@@ -212,7 +212,7 @@ const Events = () => {
     <Card className="overflow-hidden hover:shadow-lg transition-shadow">
       <div className="relative">
         <img
-          src={event.image || "/src/assets/event1.jpg"}
+          src={event.image || "/assets/event1.jpg"}
           alt={event.title}
           className="w-full h-48 object-cover"
         />

@@ -29,10 +29,10 @@ const Gallery = () => {
       date: "February 25, 2024",
       category: "Cultural",
       images: [
-        "/src/assets/hero-bg.jpg",
-        "/src/assets/event1.jpg",
-        "/src/assets/team-member.jpg",
-        "/src/assets/hero-bg.jpg"
+        "/assets/hero-bg.jpg",
+        "/assets/event1.jpg",
+        "/assets/team-member.jpg",
+        "/assets/hero-bg.jpg"
       ]
     },
     {
@@ -41,9 +41,9 @@ const Gallery = () => {
       date: "January 18, 2024",
       category: "Conference",
       images: [
-        "/src/assets/team-member.jpg",
-        "/src/assets/event1.jpg",
-        "/src/assets/hero-bg.jpg"
+        "/assets/team-member.jpg",
+        "/assets/event1.jpg",
+        "/assets/hero-bg.jpg"
       ]
     }
   ];
@@ -52,17 +52,17 @@ const Gallery = () => {
     {
       title: "Excellence Award 2023",
       description: "Received from University of Delhi",
-      image: "/src/assets/event1.jpg"
+      image: "/assets/event1.jpg"
     },
     {
       title: "Innovation Challenge Winner",
       description: "Inter-college competition victory",
-      image: "/src/assets/hero-bg.jpg"
+      image: "/assets/hero-bg.jpg"
     },
     {
       title: "Community Impact Award",
       description: "Recognition for social initiatives",
-      image: "/src/assets/team-member.jpg"
+      image: "/assets/team-member.jpg"
     }
   ];
 

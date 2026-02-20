@@ -12,7 +12,7 @@ const UpcomingEvents = () => {
       date: "March 15, 2024",
       time: "10:00 AM - 4:00 PM",
       location: "Main Auditorium",
-      image: "/src/assets/event1.jpg",
+      image: "/assets/event1.jpg",
       category: "Workshop",
       attendees: 120,
       description: "Learn about the latest technologies and innovation trends in this hands-on workshop."
@@ -23,7 +23,7 @@ const UpcomingEvents = () => {
       date: "March 22, 2024",
       time: "9:00 AM - 5:00 PM",
       location: "Conference Hall",
-      image: "/src/assets/event1.jpg",
+      image: "/assets/event1.jpg",
       category: "Conference",
       attendees: 200,
       description: "Join industry leaders and develop your leadership skills for the future."
@@ -34,7 +34,7 @@ const UpcomingEvents = () => {
       date: "March 28, 2024",
       time: "6:00 PM - 10:00 PM",
       location: "College Ground",
-      image: "/src/assets/event1.jpg",
+      image: "/assets/event1.jpg",
       category: "Cultural",
       attendees: 500,
       description: "Celebrate diversity and talent in our grand cultural festival finale."

@@ -26,7 +26,7 @@ const Jobs = () => {
       description: "We are looking for a skilled software engineer to join our development team. You will work on cutting-edge projects using modern technologies.",
       requirements: ["React.js", "Node.js", "MongoDB", "AWS"],
       applyLink: "https://techcorp.com/careers",
-      companyLogo: "/src/assets/logo.png",
+      companyLogo: "/assets/logo.png",
       postedDate: "2024-03-15",
       salary: "₹8-12 LPA"
     },
@@ -40,7 +40,7 @@ const Jobs = () => {
       description: "Join our marketing team as an intern and learn digital marketing strategies, social media management, and content creation.",
       requirements: ["Social Media", "Content Writing", "Analytics"],
       applyLink: "https://digitalmarketingpro.com/internships",
-      companyLogo: "/src/assets/logo.png",
+      companyLogo: "/assets/logo.png",
       postedDate: "2024-03-14",
       salary: "₹15,000/month"
     },
@@ -54,7 +54,7 @@ const Jobs = () => {
       description: "Analyze large datasets to provide insights and recommendations. Work with stakeholders to understand business requirements.",
       requirements: ["Python", "SQL", "Tableau", "Statistics"],
       applyLink: "https://analyticshub.com/jobs",
-      companyLogo: "/src/assets/logo.png",
+      companyLogo: "/assets/logo.png",
       postedDate: "2024-03-13",
       salary: "₹6-10 LPA"
     },
@@ -68,7 +68,7 @@ const Jobs = () => {
       description: "Create beautiful and functional user interfaces. Work closely with product managers and developers to deliver exceptional user experiences.",
       requirements: ["Figma", "Adobe Creative Suite", "Prototyping", "User Research"],
       applyLink: "https://designstudio.com/careers",
-      companyLogo: "/src/assets/logo.png",
+      companyLogo: "/assets/logo.png",
       postedDate: "2024-03-12",
       salary: "₹5-8 LPA"
     },
@@ -82,7 +82,7 @@ const Jobs = () => {
       description: "Drive business growth through client acquisition and relationship management. Identify new business opportunities and partnerships.",
       requirements: ["Sales", "Communication", "CRM", "Market Research"],
       applyLink: "https://growthventures.com/jobs",
-      companyLogo: "/src/assets/logo.png",
+      companyLogo: "/assets/logo.png",
       postedDate: "2024-03-11",
       salary: "₹4-7 LPA"
     },
@@ -96,7 +96,7 @@ const Jobs = () => {
       description: "Manage cloud infrastructure and deployment pipelines. Ensure high availability and performance of our applications.",
       requirements: ["AWS", "Docker", "Kubernetes", "CI/CD"],
       applyLink: "https://cloudtech.com/careers",
-      companyLogo: "/src/assets/logo.png",
+      companyLogo: "/assets/logo.png",
       postedDate: "2024-03-10",
       salary: "₹10-15 LPA"
     }

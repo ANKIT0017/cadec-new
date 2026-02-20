@@ -31,7 +31,7 @@ const Navigation = () => {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <img
-              src="/src/assets/logo.png"
+              src="/assets/logo.png"
               alt="CADEC PGDAV"
               className="h-10 w-10 mr-3"
             />
