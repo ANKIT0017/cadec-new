@@ -15,12 +15,12 @@ const Gallery = () => {
       date: "March 15, 2024",
       category: "Workshop",
       images: [
-        "/src/assets/event1.jpg",
-        "/src/assets/hero-bg.jpg",
-        "/src/assets/team-member.jpg",
-        "/src/assets/event1.jpg",
-        "/src/assets/hero-bg.jpg",
-        "/src/assets/team-member.jpg"
+        "/assets/event1.jpg",
+        "/assets/hero-bg.jpg",
+        "/assets/team-member.jpg",
+        "/assets/event1.jpg",
+        "/assets/hero-bg.jpg",
+        "/assets/team-member.jpg"
       ]
     },
     {
